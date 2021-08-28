@@ -1,0 +1,40 @@
+nav{
+    border-bottom: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+li{
+    list-style: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: 0.7s ease-out;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+a:hover li {
+    background-color: black;
+}
+a:hover {
+    color: white;
+}
+
+.blogs a:hover h2{
+   color: black;
+   text-decoration: underline;
+
+}
+.blogs a:hover p{
+   color: black;
+
+}
+.blogs a:hover span{
+    color: black;
+}

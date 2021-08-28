@@ -1,0 +1,33 @@
+
+.container{
+    width: 80%;
+    padding: 20px;
+}
+
+
+span{
+    margin-left: 0px;
+}
+
+.blogs {
+    width: 70%;
+    text-align: justify;
+    
+}
+.line{
+    border-bottom: 2px solid #ebe8e8;
+    
+}
+#comments-sec, #category{
+    border-top: 2px solid #ebe8e8;
+    
+}
+ #category{
+    border-top: 2px solid #ebe8e8;
+    margin-top: 75px;
+}
+
+.blog{
+    width: 100%;
+}
+
